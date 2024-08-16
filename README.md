@@ -1,7 +1,3 @@
-Sure, here's a template for a README file you can use for your GitHub repository:
-
----
-
 # E-Commerce Website
 
 This repository contains the source code for an e-commerce website developed using PHP, JavaScript, CSS, HTML, and MySQL. The project is built using the XAMPP platform for local development and testing.
